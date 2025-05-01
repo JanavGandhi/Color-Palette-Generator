@@ -19,6 +19,7 @@ A sleek and responsive web app that lets you generate beautiful color palettes f
 
 - **Frontend**: React, JavaScript, CSS
 - **Deployment**: Vercel
+- https://color-palette-generator-plum.vercel.app/
 
 ## 🛠 Installation
 
